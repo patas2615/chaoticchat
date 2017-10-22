@@ -2,3 +2,8 @@
 
 
 https://firechat.firebaseapp.com/docs/
+
+
+tutorial on using firestore
+
+https://vuejsdevelopers.com/2017/10/16/vue-js-firestore/
